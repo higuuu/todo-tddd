@@ -12,7 +12,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.10.3",
-    "mongose": "0.0.2-security"
+    "mongose": "0.0.2-security",
+    "node-mocks-http": "^1.9.0"
   },
   "devDependencies": {
     "jest": "^26.4.2"
